@@ -1,2 +1,3 @@
 # css_project
-This is my first repository
+This is a code of tourism website of india..
+made using html, css, java script
